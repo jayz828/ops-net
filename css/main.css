@@ -1,0 +1,26 @@
+
+
+body {
+    background: url("../images/tablet-geico.png") no-repeat center center fixed;
+    background-size: 100% 100%;
+
+}
+
+
+#tablet-contents {
+    margin-top: 10%;
+    /*margin-left: 10%;*/
+
+
+
+}
+
+.icons {
+    height: 40px;
+
+}
+
+
+.test {
+    border: 5px solid red;
+}
