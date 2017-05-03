@@ -110,3 +110,35 @@ body {
 
 }
 
+
+    .auto-play strong {
+
+        float:left;
+    }
+
+    .auto-play i {
+        margin-left: 5px;
+    }
+
+
+
+/*#next-video strong {*/
+
+    /*float: left;*/
+
+/*}*/
+
+/*#next-video strong:nth-of-type(2) {*/
+    /*float: right;*/
+/*}*/
+
+
+.gray-text {
+    color: darkgray;
+}
+
+
+.clear-fix {
+    clear: both;
+}
+
