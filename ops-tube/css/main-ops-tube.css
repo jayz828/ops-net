@@ -99,3 +99,14 @@ body {
 
 }
 
+
+.hr-styled {
+
+    border: none;
+    height: 1px;
+    /* Set the hr color */
+    color: lightgray; /* old IE */
+    background-color: lightgray; /* Modern Browsers */
+
+}
+
